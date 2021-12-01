@@ -13,18 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there, I'm Gio <!-- - [GDivino][website] --> 👋 
+# Hi there, I'm Gio <!-- - [GDivino][website] --> 👋 
 
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://gdivino.notion.site/gdivino/Gio-Divino-f156cf0411904db989ebf6af20e15baa)
 [![Twitter Follow](https://img.shields.io/twitter/follow/giocodes?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/giocodes)
 
 ## I'm a Software Engineer!!
 
+I love learning new technologies and building things with them. I advocate for education, environment, and poverty. My goal is to create impactful and meaningful technologies.
+
 <!-- - 🔭 I'm currently working on : [Become A VS Code SuperHero!][course]! -->
-- 🌱 I’m currently learning Devops
-- 👯 I’m looking to collaborate with other developers
+- 🌱 Currently learning Devops
+- 👯 Looking to collaborate with other developers
 - 🥅 2022 Goals: Become a Devops Engineer
-- ⚡ Fun fact: I love videogames
+- ⚡ Fun fact: I sing and play the guitar!
 
 ### Connect with me:
 
