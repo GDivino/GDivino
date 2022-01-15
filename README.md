@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Gio <!-- - [GDivino][website] --> 👋 
 
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://gdivino.notion.site/gdivino/Gio-Divino-f156cf0411904db989ebf6af20e15baa)
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://giodivino.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/giocodes?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/giocodes)
 
 ## I'm a Software Engineer!!
