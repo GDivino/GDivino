@@ -65,6 +65,6 @@ I love learning new technologies and building things with them. I advocate for e
 
 </details> -->
 
-[website]: https://gdivino.notion.site/gdivino/Gio-Divino-f156cf0411904db989ebf6af20e15baa
+[website]: https://giodivino.com
 [twitter]: https://twitter.com/giocodes
 [linkedin]: https://linkedin.com/in/gio-divino
