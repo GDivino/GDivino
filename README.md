@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## I'm a Software Engineer!!
 
-I love learning new technologies and building things with them. I advocate for education, environment, and poverty. My goal is to create impactful and meaningful technologies.
+I love learning new technologies and building things with them. I advocate for health and education. My goal is to create impactful technologies.
 
 <!-- - 🔭 I'm currently working on : [Become A VS Code SuperHero!][course]! -->
 - 🌱 Currently learning Devops
