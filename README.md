@@ -25,7 +25,7 @@ I love learning new technologies and building things with them. I advocate for h
 <!-- - 🔭 I'm currently working on : [Become A VS Code SuperHero!][course]! -->
 - 🌱 Currently learning Devops
 - 👯 Looking to collaborate with other developers
-- 🥅 2023 Goals: Become a complete Engineer
+- 🥅 2023 Goals: Scale up a business as a DevOps Engineer
 - ⚡ Fun fact: I sing and play the guitar!
 
 ### Connect with me:
