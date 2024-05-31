@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Gio <!-- - [GDivino][website] --> 👋 
 
-[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://giodivino.com)
+[![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://giodivino.dev)
 [![Twitter Follow](https://img.shields.io/twitter/follow/giocodes?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/giocodes)
 
-## I'm a Software Engineer!!
+## I'm a DevOps engineer!!
 
-I love learning new technologies and building things with them. I advocate for health and education. My goal is to create impactful technologies.
+I love learning new technologies and building things with them. My goal is to create things that can largely impact our communities
 
 <!-- - 🔭 I'm currently working on : [Become A VS Code SuperHero!][course]! -->
-- 🌱 Currently learning Devops
-- 👯 Looking to collaborate with other developers
-- 🥅 2023 Goals: Scale up a business as a DevOps Engineer
-- ⚡ Fun fact: I sing and play the guitar!
+- 🌱 Currently learning DevOps anf Infrastructure
+- 👯 Looking for all sorts of opportunities in tech
+- 🥅 2024 Goals: Specialize in a specific technology/stack in the infrastructure space
+- ⚡ Fun fact: I love working out, singing, and I can play the guitar!
 
 ### Connect with me:
 
